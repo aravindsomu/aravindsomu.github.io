@@ -1,0 +1,1644 @@
+{
+    "Data": [
+        {
+            "Code": "201",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "202",
+            "Location": "Washington D.C."
+        },
+        {
+            "Code": "203",
+            "Location": "Connecticut"
+        },
+        {
+            "Code": "204",
+            "Location": "Canada - Manitoba"
+        },
+        {
+            "Code": "205",
+            "Location": "Alabama"
+        },
+        {
+            "Code": "206",
+            "Location": "Washington"
+        },
+        {
+            "Code": "207",
+            "Location": "Maine"
+        },
+        {
+            "Code": "208",
+            "Location": "Idaho"
+        },
+        {
+            "Code": "209",
+            "Location": "California"
+        },
+        {
+            "Code": "210",
+            "Location": "Texas"
+        },
+        {
+            "Code": "212",
+            "Location": "New York"
+        },
+        {
+            "Code": "213",
+            "Location": "California"
+        },
+        {
+            "Code": "214",
+            "Location": "Texas"
+        },
+        {
+            "Code": "215",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "216",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "217",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "218",
+            "Location": "Minnesota"
+        },
+        {
+            "Code": "219",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "220",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "223",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "224",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "225",
+            "Location": "Louisiana"
+        },
+        {
+            "Code": "226",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "228",
+            "Location": "Mississippi"
+        },
+        {
+            "Code": "229",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "231",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "234",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "236",
+            "Location": "Canada - British Columbia"
+        },
+        {
+            "Code": "239",
+            "Location": "Florida"
+        },
+        {
+            "Code": "240",
+            "Location": "Maryland"
+        },
+        {
+            "Code": "242",
+            "Location": "Bahamas"
+        },
+        {
+            "Code": "246",
+            "Location": "Barbados"
+        },
+        {
+            "Code": "248",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "249",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "250",
+            "Location": "Canada - British Columbia"
+        },
+        {
+            "Code": "251",
+            "Location": "Alabama"
+        },
+        {
+            "Code": "252",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "253",
+            "Location": "Washington"
+        },
+        {
+            "Code": "254",
+            "Location": "Texas"
+        },
+        {
+            "Code": "256",
+            "Location": "Alabama"
+        },
+        {
+            "Code": "260",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "262",
+            "Location": "Wisconsin"
+        },
+        {
+            "Code": "264",
+            "Location": "Anguilla"
+        },
+        {
+            "Code": "267",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "268",
+            "Location": "Antigua & Barbuda"
+        },
+        {
+            "Code": "269",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "270",
+            "Location": "Kentucky"
+        },
+        {
+            "Code": "272",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "276",
+            "Location": "Virginia"
+        },
+        {
+            "Code": "279",
+            "Location": "California"
+        },
+        {
+            "Code": "281",
+            "Location": "Texas"
+        },
+        {
+            "Code": "284",
+            "Location": "British Virgin Islands"
+        },
+        {
+            "Code": "289",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "301",
+            "Location": "Maryland"
+        },
+        {
+            "Code": "302",
+            "Location": "Delaware"
+        },
+        {
+            "Code": "303",
+            "Location": "Colorado"
+        },
+        {
+            "Code": "304",
+            "Location": "West Virginia"
+        },
+        {
+            "Code": "305",
+            "Location": "Florida"
+        },
+        {
+            "Code": "306",
+            "Location": "Canada - Saskatchewan"
+        },
+        {
+            "Code": "307",
+            "Location": "Wyoming"
+        },
+        {
+            "Code": "308",
+            "Location": "Nebraska"
+        },
+        {
+            "Code": "309",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "310",
+            "Location": "California"
+        },
+        {
+            "Code": "312",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "313",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "314",
+            "Location": "Missouri"
+        },
+        {
+            "Code": "315",
+            "Location": "New York"
+        },
+        {
+            "Code": "316",
+            "Location": "Kansas"
+        },
+        {
+            "Code": "317",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "318",
+            "Location": "Louisiana"
+        },
+        {
+            "Code": "319",
+            "Location": "Iowa"
+        },
+        {
+            "Code": "320",
+            "Location": "Minnesota"
+        },
+        {
+            "Code": "321",
+            "Location": "Florida"
+        },
+        {
+            "Code": "323",
+            "Location": "California"
+        },
+        {
+            "Code": "325",
+            "Location": "Texas"
+        },
+        {
+            "Code": "326",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "330",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "331",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "332",
+            "Location": "New York"
+        },
+        {
+            "Code": "334",
+            "Location": "Alabama"
+        },
+        {
+            "Code": "336",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "337",
+            "Location": "Louisiana"
+        },
+        {
+            "Code": "339",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "340",
+            "Location": "US Virgin Islands"
+        },
+        {
+            "Code": "341",
+            "Location": "California"
+        },
+        {
+            "Code": "343",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "345",
+            "Location": "Cayman Islands"
+        },
+        {
+            "Code": "346",
+            "Location": "Texas"
+        },
+        {
+            "Code": "347",
+            "Location": "New York"
+        },
+        {
+            "Code": "351",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "352",
+            "Location": "Florida"
+        },
+        {
+            "Code": "360",
+            "Location": "Washington"
+        },
+        {
+            "Code": "361",
+            "Location": "Texas"
+        },
+        {
+            "Code": "364",
+            "Location": "Kentucky"
+        },
+        {
+            "Code": "365",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "367",
+            "Location": "Quebec"
+        },
+        {
+            "Code": "380",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "385",
+            "Location": "Utah"
+        },
+        {
+            "Code": "386",
+            "Location": "Florida"
+        },
+        {
+            "Code": "401",
+            "Location": "Rhode Island"
+        },
+        {
+            "Code": "402",
+            "Location": "Nebraska"
+        },
+        {
+            "Code": "403",
+            "Location": "Canada - Alberta"
+        },
+        {
+            "Code": "404",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "405",
+            "Location": "Oklahoma"
+        },
+        {
+            "Code": "406",
+            "Location": "Montana"
+        },
+        {
+            "Code": "407",
+            "Location": "Florida"
+        },
+        {
+            "Code": "408",
+            "Location": "California"
+        },
+        {
+            "Code": "409",
+            "Location": "Texas"
+        },
+        {
+            "Code": "410",
+            "Location": "Maryland"
+        },
+        {
+            "Code": "412",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "413",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "414",
+            "Location": "Wisconsin"
+        },
+        {
+            "Code": "415",
+            "Location": "California"
+        },
+        {
+            "Code": "416",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "417",
+            "Location": "Missouri"
+        },
+        {
+            "Code": "418",
+            "Location": "Canada - Quebec"
+        },
+        {
+            "Code": "419",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "423",
+            "Location": "Tennessee"
+        },
+        {
+            "Code": "424",
+            "Location": "California"
+        },
+        {
+            "Code": "425",
+            "Location": "Washington"
+        },
+        {
+            "Code": "430",
+            "Location": "Texas"
+        },
+        {
+            "Code": "431",
+            "Location": "Canada - Manitoba"
+        },
+        {
+            "Code": "432",
+            "Location": "Texas"
+        },
+        {
+            "Code": "434",
+            "Location": "Virginia"
+        },
+        {
+            "Code": "435",
+            "Location": "Utah"
+        },
+        {
+            "Code": "437",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "438",
+            "Location": "Canada - Quebec"
+        },
+        {
+            "Code": "440",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "441",
+            "Location": "Bermuda"
+        },
+        {
+            "Code": "442",
+            "Location": "California"
+        },
+        {
+            "Code": "443",
+            "Location": "Maryland"
+        },
+        {
+            "Code": "445",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "450",
+            "Location": "Canada - Quebec"
+        },
+        {
+            "Code": "456",
+            "Location": "Carrier Services"
+        },
+        {
+            "Code": "458",
+            "Location": "Oregon"
+        },
+        {
+            "Code": "463",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "469",
+            "Location": "Texas"
+        },
+        {
+            "Code": "470",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "473",
+            "Location": "Grenada"
+        },
+        {
+            "Code": "475",
+            "Location": "Connecticut"
+        },
+        {
+            "Code": "478",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "479",
+            "Location": "Arkansas"
+        },
+        {
+            "Code": "480",
+            "Location": "Arizona"
+        },
+        {
+            "Code": "484",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "500",
+            "Location": "Personal Communications Services"
+        },
+        {
+            "Code": "501",
+            "Location": "Arkansas"
+        },
+        {
+            "Code": "502",
+            "Location": "Kentucky"
+        },
+        {
+            "Code": "503",
+            "Location": "Oregon"
+        },
+        {
+            "Code": "504",
+            "Location": "Louisiana"
+        },
+        {
+            "Code": "505",
+            "Location": "New Mexico"
+        },
+        {
+            "Code": "506",
+            "Location": "Canada - New Brunswick"
+        },
+        {
+            "Code": "507",
+            "Location": "Minnesota"
+        },
+        {
+            "Code": "508",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "509",
+            "Location": "Washington"
+        },
+        {
+            "Code": "510",
+            "Location": "California"
+        },
+        {
+            "Code": "512",
+            "Location": "Texas"
+        },
+        {
+            "Code": "513",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "514",
+            "Location": "Canada - Quebec"
+        },
+        {
+            "Code": "515",
+            "Location": "Iowa"
+        },
+        {
+            "Code": "516",
+            "Location": "New York"
+        },
+        {
+            "Code": "517",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "518",
+            "Location": "New York"
+        },
+        {
+            "Code": "519",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "520",
+            "Location": "Arizona"
+        },
+        {
+            "Code": "530",
+            "Location": "California"
+        },
+        {
+            "Code": "531",
+            "Location": "Nebraska"
+        },
+        {
+            "Code": "533",
+            "Location": "Personal Communications Services"
+        },
+        {
+            "Code": "534",
+            "Location": "Wisconsin"
+        },
+        {
+            "Code": "539",
+            "Location": "Oklahoma"
+        },
+        {
+            "Code": "540",
+            "Location": "Virginia"
+        },
+        {
+            "Code": "541",
+            "Location": "Oregon"
+        },
+        {
+            "Code": "544",
+            "Location": "Personal Communications Services"
+        },
+        {
+            "Code": "548",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "551",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "559",
+            "Location": "California"
+        },
+        {
+            "Code": "561",
+            "Location": "Florida"
+        },
+        {
+            "Code": "562",
+            "Location": "California"
+        },
+        {
+            "Code": "563",
+            "Location": "Iowa"
+        },
+        {
+            "Code": "564",
+            "Location": "Washington"
+        },
+        {
+            "Code": "566",
+            "Location": "Personal Communications Services"
+        },
+        {
+            "Code": "567",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "570",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "571",
+            "Location": "Virginia"
+        },
+        {
+            "Code": "573",
+            "Location": "Missouri"
+        },
+        {
+            "Code": "574",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "575",
+            "Location": "New Mexico"
+        },
+        {
+            "Code": "577",
+            "Location": "Personal Communications Services"
+        },
+        {
+            "Code": "579",
+            "Location": "Quebec"
+        },
+        {
+            "Code": "580",
+            "Location": "Oklahoma"
+        },
+        {
+            "Code": "581",
+            "Location": "Quebec"
+        },
+        {
+            "Code": "585",
+            "Location": "New York"
+        },
+        {
+            "Code": "586",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "587",
+            "Location": "Canada - Alberta"
+        },
+        {
+            "Code": "600",
+            "Location": "Canada only, Non Geographic"
+        },
+        {
+            "Code": "601",
+            "Location": "Mississippi"
+        },
+        {
+            "Code": "602",
+            "Location": "Arizona"
+        },
+        {
+            "Code": "603",
+            "Location": "New Hampshire"
+        },
+        {
+            "Code": "604",
+            "Location": "Canada - British Columbia"
+        },
+        {
+            "Code": "605",
+            "Location": "South Dakota"
+        },
+        {
+            "Code": "606",
+            "Location": "Kentucky"
+        },
+        {
+            "Code": "607",
+            "Location": "New York"
+        },
+        {
+            "Code": "608",
+            "Location": "Wisconsin"
+        },
+        {
+            "Code": "609",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "610",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "612",
+            "Location": "Minnesota"
+        },
+        {
+            "Code": "613",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "614",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "615",
+            "Location": "Tennessee"
+        },
+        {
+            "Code": "616",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "617",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "618",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "619",
+            "Location": "California"
+        },
+        {
+            "Code": "620",
+            "Location": "Kansas"
+        },
+        {
+            "Code": "623",
+            "Location": "Arizona"
+        },
+        {
+            "Code": "626",
+            "Location": "California"
+        },
+        {
+            "Code": "628",
+            "Location": "California"
+        },
+        {
+            "Code": "629",
+            "Location": "Tennessee"
+        },
+        {
+            "Code": "630",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "631",
+            "Location": "New York"
+        },
+        {
+            "Code": "636",
+            "Location": "Missouri"
+        },
+        {
+            "Code": "639",
+            "Location": "Canada - Saskatchewan"
+        },
+        {
+            "Code": "640",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "641",
+            "Location": "Iowa"
+        },
+        {
+            "Code": "646",
+            "Location": "New York"
+        },
+        {
+            "Code": "647",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "649",
+            "Location": "Turks & Caicos"
+        },
+        {
+            "Code": "650",
+            "Location": "California"
+        },
+        {
+            "Code": "651",
+            "Location": "Minnesota"
+        },
+        {
+            "Code": "657",
+            "Location": "California"
+        },
+        {
+            "Code": "658",
+            "Location": "Jamaica"
+        },
+        {
+            "Code": "659",
+            "Location": "Alabama"
+        },
+        {
+            "Code": "660",
+            "Location": "Missouri"
+        },
+        {
+            "Code": "661",
+            "Location": "California"
+        },
+        {
+            "Code": "662",
+            "Location": "Mississippi"
+        },
+        {
+            "Code": "664",
+            "Location": "Montserrat"
+        },
+        {
+            "Code": "667",
+            "Location": "Maryland"
+        },
+        {
+            "Code": "669",
+            "Location": "California"
+        },
+        {
+            "Code": "670",
+            "Location": "Northern Mariana Isl."
+        },
+        {
+            "Code": "671",
+            "Location": "Guam"
+        },
+        {
+            "Code": "672",
+            "Location": "Canada - British Columbia"
+        },
+        {
+            "Code": "678",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "680",
+            "Location": "New York"
+        },
+        {
+            "Code": "681",
+            "Location": "West Virginia"
+        },
+        {
+            "Code": "682",
+            "Location": "Texas"
+        },
+        {
+            "Code": "684",
+            "Location": "American Samoa"
+        },
+        {
+            "Code": "689",
+            "Location": "Florida"
+        },
+        {
+            "Code": "700",
+            "Location": "Carrier Services"
+        },
+        {
+            "Code": "701",
+            "Location": "North Dakota"
+        },
+        {
+            "Code": "702",
+            "Location": "Nevada"
+        },
+        {
+            "Code": "703",
+            "Location": "Virginia"
+        },
+        {
+            "Code": "704",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "705",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "706",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "707",
+            "Location": "California"
+        },
+        {
+            "Code": "708",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "709",
+            "Location": "Canada - Newfoundland"
+        },
+        {
+            "Code": "710",
+            "Location": "US Government"
+        },
+        {
+            "Code": "712",
+            "Location": "Iowa"
+        },
+        {
+            "Code": "713",
+            "Location": "Texas"
+        },
+        {
+            "Code": "714",
+            "Location": "California"
+        },
+        {
+            "Code": "715",
+            "Location": "Wisconsin"
+        },
+        {
+            "Code": "716",
+            "Location": "New York"
+        },
+        {
+            "Code": "717",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "718",
+            "Location": "New York"
+        },
+        {
+            "Code": "719",
+            "Location": "Colorado"
+        },
+        {
+            "Code": "720",
+            "Location": "Colorado"
+        },
+        {
+            "Code": "721",
+            "Location": "Sint Maarten"
+        },
+        {
+            "Code": "724",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "725",
+            "Location": "Nevada"
+        },
+        {
+            "Code": "726",
+            "Location": "Texas"
+        },
+        {
+            "Code": "727",
+            "Location": "Florida"
+        },
+        {
+            "Code": "731",
+            "Location": "Tennessee"
+        },
+        {
+            "Code": "732",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "734",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "737",
+            "Location": "Texas"
+        },
+        {
+            "Code": "740",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "743",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "747",
+            "Location": "California"
+        },
+        {
+            "Code": "754",
+            "Location": "Florida"
+        },
+        {
+            "Code": "757",
+            "Location": "Virginia"
+        },
+        {
+            "Code": "758",
+            "Location": "St. Lucia"
+        },
+        {
+            "Code": "760",
+            "Location": "California"
+        },
+        {
+            "Code": "762",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "763",
+            "Location": "Minnesota"
+        },
+        {
+            "Code": "765",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "767",
+            "Location": "Dominica"
+        },
+        {
+            "Code": "769",
+            "Location": "Mississippi"
+        },
+        {
+            "Code": "770",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "772",
+            "Location": "Florida"
+        },
+        {
+            "Code": "773",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "774",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "775",
+            "Location": "Nevada"
+        },
+        {
+            "Code": "778",
+            "Location": "Canada - British Columbia"
+        },
+        {
+            "Code": "779",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "780",
+            "Location": "Canada - Alberta"
+        },
+        {
+            "Code": "781",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "782",
+            "Location": "Canada - Nova Scotia/PEI"
+        },
+        {
+            "Code": "784",
+            "Location": "St. Vincent and the Grenadines"
+        },
+        {
+            "Code": "785",
+            "Location": "Kansas"
+        },
+        {
+            "Code": "786",
+            "Location": "Florida"
+        },
+        {
+            "Code": "787",
+            "Location": "Puerto Rico"
+        },
+        {
+            "Code": "800",
+            "Location": "Toll free"
+        },
+        {
+            "Code": "801",
+            "Location": "Utah"
+        },
+        {
+            "Code": "802",
+            "Location": "Vermont"
+        },
+        {
+            "Code": "803",
+            "Location": "South Carolina"
+        },
+        {
+            "Code": "804",
+            "Location": "Virginia"
+        },
+        {
+            "Code": "805",
+            "Location": "California"
+        },
+        {
+            "Code": "806",
+            "Location": "Texas"
+        },
+        {
+            "Code": "807",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "808",
+            "Location": "Hawaii"
+        },
+        {
+            "Code": "809",
+            "Location": "Dominican Republic"
+        },
+        {
+            "Code": "810",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "812",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "813",
+            "Location": "Florida"
+        },
+        {
+            "Code": "814",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "815",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "816",
+            "Location": "Missouri"
+        },
+        {
+            "Code": "817",
+            "Location": "Texas"
+        },
+        {
+            "Code": "818",
+            "Location": "California"
+        },
+        {
+            "Code": "819",
+            "Location": "Canada - Quebec"
+        },
+        {
+            "Code": "820",
+            "Location": "California"
+        },
+        {
+            "Code": "825",
+            "Location": "Canada - Alberta"
+        },
+        {
+            "Code": "828",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "829",
+            "Location": "Dominican Republic"
+        },
+        {
+            "Code": "830",
+            "Location": "Texas"
+        },
+        {
+            "Code": "831",
+            "Location": "California"
+        },
+        {
+            "Code": "832",
+            "Location": "Texas"
+        },
+        {
+            "Code": "833",
+            "Location": "Toll free"
+        },
+        {
+            "Code": "838",
+            "Location": "New York"
+        },
+        {
+            "Code": "839",
+            "Location": "South Carolina"
+        },
+        {
+            "Code": "843",
+            "Location": "South Carolina"
+        },
+        {
+            "Code": "844",
+            "Location": "Toll free"
+        },
+        {
+            "Code": "845",
+            "Location": "New York"
+        },
+        {
+            "Code": "847",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "848",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "849",
+            "Location": "Dominican Republic"
+        },
+        {
+            "Code": "850",
+            "Location": "Florida"
+        },
+        {
+            "Code": "854",
+            "Location": "South Carolina"
+        },
+        {
+            "Code": "855",
+            "Location": "Toll free"
+        },
+        {
+            "Code": "856",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "857",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "858",
+            "Location": "California"
+        },
+        {
+            "Code": "859",
+            "Location": "Kentucky"
+        },
+        {
+            "Code": "860",
+            "Location": "Connecticut"
+        },
+        {
+            "Code": "862",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "863",
+            "Location": "Florida"
+        },
+        {
+            "Code": "864",
+            "Location": "South Carolina"
+        },
+        {
+            "Code": "865",
+            "Location": "Tennessee"
+        },
+        {
+            "Code": "866",
+            "Location": "Toll free"
+        },
+        {
+            "Code": "867",
+            "Location": "Canada - NW Territories, Nunavut, Yukon"
+        },
+        {
+            "Code": "868",
+            "Location": "Trinidad & Tobago"
+        },
+        {
+            "Code": "869",
+            "Location": "St. Kitts & Nevis"
+        },
+        {
+            "Code": "870",
+            "Location": "Arkansas"
+        },
+        {
+            "Code": "872",
+            "Location": "Illinois"
+        },
+        {
+            "Code": "873",
+            "Location": "Canada - Quebec"
+        },
+        {
+            "Code": "876",
+            "Location": "Jamaica"
+        },
+        {
+            "Code": "877",
+            "Location": "Toll free"
+        },
+        {
+            "Code": "878",
+            "Location": "Pennsylvania"
+        },
+        {
+            "Code": "888",
+            "Location": "Toll free"
+        },
+        {
+            "Code": "900",
+            "Location": "Pay per call"
+        },
+        {
+            "Code": "901",
+            "Location": "Tennessee"
+        },
+        {
+            "Code": "902",
+            "Location": "Canada - Nova Scotia/PEI"
+        },
+        {
+            "Code": "903",
+            "Location": "Texas"
+        },
+        {
+            "Code": "904",
+            "Location": "Florida"
+        },
+        {
+            "Code": "905",
+            "Location": "Canada - Ontario"
+        },
+        {
+            "Code": "906",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "907",
+            "Location": "Alaska"
+        },
+        {
+            "Code": "908",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "909",
+            "Location": "California"
+        },
+        {
+            "Code": "910",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "911",
+            "Location": "Emergency"
+        },
+        {
+            "Code": "912",
+            "Location": "Georgia"
+        },
+        {
+            "Code": "913",
+            "Location": "Kansas"
+        },
+        {
+            "Code": "914",
+            "Location": "New York"
+        },
+        {
+            "Code": "915",
+            "Location": "Texas"
+        },
+        {
+            "Code": "916",
+            "Location": "California"
+        },
+        {
+            "Code": "917",
+            "Location": "New York"
+        },
+        {
+            "Code": "918",
+            "Location": "Oklahoma"
+        },
+        {
+            "Code": "919",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "920",
+            "Location": "Wisconsin"
+        },
+        {
+            "Code": "925",
+            "Location": "California"
+        },
+        {
+            "Code": "928",
+            "Location": "Arizona"
+        },
+        {
+            "Code": "929",
+            "Location": "New York"
+        },
+        {
+            "Code": "930",
+            "Location": "Indiana"
+        },
+        {
+            "Code": "931",
+            "Location": "Tennessee"
+        },
+        {
+            "Code": "934",
+            "Location": "New York"
+        },
+        {
+            "Code": "936",
+            "Location": "Texas"
+        },
+        {
+            "Code": "937",
+            "Location": "Ohio"
+        },
+        {
+            "Code": "938",
+            "Location": "Alabama"
+        },
+        {
+            "Code": "939",
+            "Location": "Puerto Rico"
+        },
+        {
+            "Code": "940",
+            "Location": "Texas"
+        },
+        {
+            "Code": "941",
+            "Location": "Florida"
+        },
+        {
+            "Code": "947",
+            "Location": "Michigan"
+        },
+        {
+            "Code": "949",
+            "Location": "California"
+        },
+        {
+            "Code": "951",
+            "Location": "California"
+        },
+        {
+            "Code": "952",
+            "Location": "Minnesota"
+        },
+        {
+            "Code": "954",
+            "Location": "Florida"
+        },
+        {
+            "Code": "956",
+            "Location": "Texas"
+        },
+        {
+            "Code": "959",
+            "Location": "Connecticut"
+        },
+        {
+            "Code": "970",
+            "Location": "Colorado"
+        },
+        {
+            "Code": "971",
+            "Location": "Oregon"
+        },
+        {
+            "Code": "972",
+            "Location": "Texas"
+        },
+        {
+            "Code": "973",
+            "Location": "New Jersey"
+        },
+        {
+            "Code": "978",
+            "Location": "Massachusetts"
+        },
+        {
+            "Code": "979",
+            "Location": "Texas"
+        },
+        {
+            "Code": "980",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "984",
+            "Location": "North Carolina"
+        },
+        {
+            "Code": "985",
+            "Location": "Louisiana"
+        },
+        {
+            "Code": "986",
+            "Location": "Idaho"
+        },
+        {
+            "Code": "989",
+            "Location": "Michigan"
+        }
+    ]
+}
